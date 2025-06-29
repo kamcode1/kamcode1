@@ -4,7 +4,6 @@
 </p>
 
 <!-- Name and Bio -->
-<h1 align="center">Hi there, I'm <span style="color:#ff6600">Kam Ephrem</span> 👋</h1>
 <p align="center"><strong>DevOps Engineer | MSc Computer Science | AWS Certified</strong></p>
 <p align="center">
   Cloud-native backend systems · Automation · CI/CD · Scalable Infrastructure
