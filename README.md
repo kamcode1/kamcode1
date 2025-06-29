@@ -1,5 +1,3 @@
-# Hi there, I'm Kam Ephrem! 👋
-
 ![Banner](https://github.com/kamcode1/kamcode1/blob/main/assets/kam-banner.png?raw=true)
 
 ## 🚀 About Me
